@@ -1,9 +1,9 @@
 
 
 # <p align="center">ClimPACT2</p>
-# <p align="left">recovered from: https://asr.copernicus.org/articles/15/231/2018/ </p>
-
-  What is it?
+# <p2 align="left">aditional info: https://asr.copernicus.org/articles/15/231/2018/ </p2>
+# <p2 align="left"></p2>
+What is it?
   -----------
   
   ClimPACT2 is an R software package that calculates the ET-SCI indices as well 
